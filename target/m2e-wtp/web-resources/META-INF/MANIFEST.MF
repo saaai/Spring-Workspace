@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: saigopal
+Build-Jdk: 9.0.4
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.test
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.DemoApplication
+Created-By: Maven Integration for Eclipse
+
